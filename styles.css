@@ -48,7 +48,7 @@ h2 {
     
 }
 
-.cars, p {
+.car, p {
     color: hsla(0, 0%, 100%, 0.75);
     line-height: 1.6rem;
 } 
@@ -56,17 +56,17 @@ h2 {
  
  
 
-.sedan {
+.car-a {
     background-color:hsl(31, 77%, 52%);
    
 }
 
-.suv {
+.car-b {
     background-color: hsl(184, 100%, 22%);
   
 }
 
-.luxury {
+.car-c {
     background-color: hsl(179, 100%, 13%);
   
 }
